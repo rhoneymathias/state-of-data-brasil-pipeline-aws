@@ -53,7 +53,7 @@ Resumo dos 8 insights de negócio extraídos do pipeline — detalhamento comple
 5. Concentração regional no Sudeste (62,3% dos respondentes que informaram a região)
 6. Cargos mais frequentes não são os mais bem remunerados
 7. Correlação entre nível de formação acadêmica e mediana salarial
-8. Queda do trabalho 100% remoto (45,7% → 39,7%) e alta do presencial (16,3% → 20,8%) entre 2024 e 2025-2026
+8. Modelo de trabalho: estabilidade entre 2023-2024, seguida de queda do trabalho 100% remoto (45,7% → 39,7%) e alta do presencial (16,3% → 20,8%) entre 2024 e 2025-2026
 
 ## Como reproduzir
 
