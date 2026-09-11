@@ -42,7 +42,7 @@ O resultado reforça a relevância de fundamentos de programação e consulta a 
 
 ### 5. Região e senioridade
 
-A região Sudeste concentra 60,5% dos respondentes e apresenta também a maior proporção de profissionais em níveis mais elevados de senioridade.
+A região Sudeste concentra 62,3% dos respondentes e apresenta também a maior proporção de profissionais em níveis mais elevados de senioridade.
 
 Esse resultado demonstra uma concentração regional relevante da força de trabalho representada pela pesquisa.
 
