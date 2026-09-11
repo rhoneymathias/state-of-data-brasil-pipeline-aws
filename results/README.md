@@ -66,11 +66,17 @@ A análise demonstra associação entre maior nível de formação acadêmica e 
 Os dados indicam um diferencial salarial associado ao nível de formação, embora a análise não permita afirmar uma relação causal.
 
 ### 8. Modelo de trabalho
-A participação do trabalho 100% remoto apresentou redução entre 2024 e 2025–2026, passando de 45,7% para 39,7%.
 
-No mesmo período, observa-se crescimento dos modelos presencial (16,3% para 20,8%) e híbrido.
+A distribuição do modelo de trabalho nas três edições:
 
-O comportamento é compatível com uma redução do trabalho remoto integral no período analisado, embora não seja possível atribuir causalidade apenas aos dados da pesquisa.
+* 100% Remoto: 46,3% (2023) → 45,7% (2024) → 39,7% (2025–2026)
+* 100% Presencial: 16,6% (2023) → 16,3% (2024) → 20,8% (2025–2026)
+* Híbrido (dias fixos): 16,6% (2023) → 17,5% (2024) → 20,0% (2025–2026)
+* Híbrido (flexível): 20,5% (2023) → 20,5% (2024) → 19,5% (2025–2026)
+
+O trabalho 100% remoto se manteve estável entre 2023 e 2024 e caiu de forma relevante apenas entre 2024 e 2025–2026. O presencial segue o padrão inverso: estável em 2023–2024, com alta concentrada em 2024–2025/26. O híbrido com dias fixos cresce de forma consistente nos três anos, ao contrário do híbrido flexível, que se mantém estável.
+
+O comportamento é compatível com um movimento de retorno ao escritório concentrado em um único intervalo (2024–2025/26), e não com uma tendência linear ao longo de três anos — distinção relevante para quem for projetar o próximo ciclo. Não é possível atribuir causalidade apenas aos dados da pesquisa.pesquisa.
 
 ## Metodologia
 
