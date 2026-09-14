@@ -11,7 +11,7 @@ As três edições da pesquisa usam convenções de nomenclatura de coluna compl
 - **1.190** colunas brutas nas três bases originais
 - **215** perguntas identificadas como presentes nas três edições
 - **172** perguntas consideradas seguras para merge automático (sem ambiguidade)
-- **1** exceção tratada manualmente (`modelo_trabalho`, ausente na edição 2023)
+- - **1** exceção tratada com alias manual (`modelo_trabalho` — rótulo da coluna em 2023 divergente do formato usado em 2024/2025; dado presente nas três edições)
 
 ## Arquitetura
 
